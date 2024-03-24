@@ -21,6 +21,7 @@ A motivated and reliable individual with a strong work ethic. Possesses essentia
 ### Badges
 
 <b>My GitHub Stats</b>
+<b>My LinkedIn Stats</b>
 
 <a href="http://www.github.com/AMD-create"><img src="https://github-readme-stats.vercel.app/api?username=AMD-create&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AMD-create's GitHub stats" /></a>
 
