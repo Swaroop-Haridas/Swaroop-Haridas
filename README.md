@@ -22,8 +22,8 @@ A motivated and reliable individual with a strong work ethic. Possesses essentia
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AMD-create"><img src="https://github-readme-stats.vercel.app/api?username=AMD-create&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AMD-create's GitHub stats" /></a>
+<a href="https://github.com/Swaroop-Haridas"><img src="https://github-readme-stats.vercel.app/api?username=Swaroop-Haridas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Swaroop-Haridas's GitHub stats" /></a>
 
-<a href="http://www.github.com/AMD-create"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AMD-create&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Swaroop-Haridas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaroop-Haridas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AMD-create" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD-create&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Swaroop-Haridas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop-Haridas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
