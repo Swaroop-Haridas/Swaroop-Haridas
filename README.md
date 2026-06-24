@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A motivated and reliable individual with a strong work ethic. Possesses essential skills and a willingness to learn and adapt to various environments. Enthusiastic team player with a positive attitude and a focus on contributing effectively to tasks and projects.
 ----------------------------------
 
-* 🌍  I'm based in Kerala, India
-
 ### Skills
 
 
